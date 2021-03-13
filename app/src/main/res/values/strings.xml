@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anda la osa</string>
+    <string name="anda_la_osa">Anda la Osa</string>
+    <string name="sign_in_google">Acceder con Google</string>
+    <string name="date_in_years">Fecha en años</string>
+    <string name="goal">Meta</string>
+    <string name="add_goal">Agregar meta</string>
+    <string name="alcanzada">Alcanzada</string>
+</resources>

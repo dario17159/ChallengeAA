@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945676737690",
+    "project_id": "anda-la-osa",
+    "storage_bucket": "anda-la-osa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945676737690:android:9e098116311c498ffe1323",
+        "android_client_info": {
+          "package_name": "com.san.juan.app.andalaosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945676737690-4mglqfeeiat8uutlfcf21cnc0vsvpku3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.san.juan.app.andalaosa",
+            "certificate_hash": "6bb054937bb29da9a082180c2c62db2749d10ff5"
+          }
+        },
+        {
+          "client_id": "945676737690-lgfjmhif80o7qjkeips2vgq07r3g6o7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3fGJpACG1Yjy1xAJVS_r2zPKRI1btPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945676737690-lgfjmhif80o7qjkeips2vgq07r3g6o7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
